@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangchan/blog.git"
+  },
+  "keywords": [
+    "person",
+    "blog"
+  ],
+  "author": "EastC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangchan/blog/issues"
+  },
+  "homepage": "https://github.com/zhangchan/blog#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
+  }
+}
